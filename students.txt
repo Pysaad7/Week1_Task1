@@ -1,0 +1,5 @@
+
+{'Name': 'Saad', 'Roll': 'R01', 'Marks': [76, 80, 84], 'Average': 80.0, 'Grade': 'B'}
+{'Name': 'Anees ', 'Roll': 'R02', 'Marks': [46, 50, 64], 'Average': 53.333333333333336, 'Grade': 'Fail'}
+{'Name': 'Fahad', 'Roll': 'R03', 'Marks': [90, 92, 74], 'Average': 85.33333333333333, 'Grade': 'B'}
+{'Name': 'Mobashir', 'Roll': 'R04', 'Marks': [91, 99, 94], 'Average': 94.66666666666667, 'Grade': 'A'}
