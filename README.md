@@ -7,7 +7,7 @@ Export results into CSV/Excel for record keeping
 Simple and user-friendly interface (CLI/GUI/Web, depending on version)
 
 Language: Python
-Database: MySQL / SQLite / CSV (depending on implementation)
+Database: MySQL / CSV (depending on implementation)
 
 Libraries:
 pandas (for data analysis)
