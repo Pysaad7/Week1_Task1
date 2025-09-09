@@ -6,7 +6,7 @@ Display top-performing students
 Export results into CSV/Excel for record keeping
 Simple and user-friendly interface (CLI/GUI/Web, depending on version)
 
-Language: Python (3.x)
+Language: Python
 Database: MySQL / SQLite / CSV (depending on implementation)
 
 Libraries:
